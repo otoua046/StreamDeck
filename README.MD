@@ -3,7 +3,7 @@
 **When regular buttons just won't glow enough**  
 *Crafted at 11 PM between smoke alarms and questionable YouTube choices*
 
-![StreamDeck Interface](./assets/Screenshot 2025-01-27 at 11.41.27 PM.png)  
+![StreamDeck Interface](/assets/Screenshot 2025-01-27 at 11.41.27 PM.png)  
 *(Actual proof it worked once)*
 
 ## 🚀 Features
