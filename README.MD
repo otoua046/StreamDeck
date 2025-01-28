@@ -24,7 +24,7 @@ cd StreamDeck
 chmod +x run  # This counts as DevOps experience
 
 # 3. Launch our digital Frankenstein
-./run.sh
+./run
 ```
 
 ## 🧑💻 Manual Setup (For Terminal Warriors)
