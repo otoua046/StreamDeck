@@ -10,7 +10,7 @@
 - ✨ YouTube-to-MP3 sorcery (100% legal* *may contain traces of fair use)
 - 🌌 Interface that blinds you with science (literally)
 - 🔥 One-click audio anarchy
-- 🏃♂️ `run.sh` script for maximum lazy efficiency
+- 🏃♂️ `run` script for maximum lazy efficiency
 - ☕ Powered by questionable life choices and burnt garlic
 
 ## ⚙️ Setup (For the "I Want It Now" Crowd)
