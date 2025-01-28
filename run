@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+# Make sure conda is initialized in your shell:
+# (Typically you put 'eval "$(conda shell.bash hook)"' in your ~/.bashrc or ~/.zshrc)
+# We'll do it here explicitly for this script to work standalone.
+
+eval "$(conda shell.bash hook)"
+
+# Activate the conda environment
+conda activate streamdeck
+
+conda install --yes --file requirements.txt
+
+# Run the Python script
+python stream_deck.py
+
+# Open Webpage
+open http://localhost:5050
