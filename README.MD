@@ -74,7 +74,7 @@ This project was:
   python-slugify==5.0.2 # Makes filenames less terrible
   ```
 
-- `run.sh` Incantation:
+- `run` Incantation:
   ```bash
   #!/usr/bin/env bash
   eval "$(conda shell.bash hook)"  # Conda dark arts
